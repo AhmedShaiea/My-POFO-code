@@ -1,0 +1,58 @@
+
+/* XS screen */
+@media(max-width: 576px) {
+   .navbar .navbar-brand,
+   .navbar .navbar-brand span {font-size: 15px;}
+   .mobile .buy_now {font-size: 8px; width:90px; margin-left: 10px; }
+   
+   
+   .wellcome h1 {font-size: 20px;}
+   .wellcome p,
+   .wellcome .btn,
+   .portoflio,
+   .blog .style button {font-size: 12px;}
+   
+   .portoflio .choose ul li {font-size: 10px; padding: 3px 8px;}
+   .portoflio .templates .image .icon {font-size: 20px}
+   .layout .w_500 {width: 250px;}
+   
+   .footer .services .logo,
+   .loading .name {font-size: 25px;}
+   .footer .services p,
+   .footer .copyright {font-size: 10px;}
+   .footer .icon  {font-size: 15px;} 
+   
+   .loading .sk-cube-grid {margin-top: 370px;}
+   
+   h3 {font-size: 15px;}
+   .my_p_width {width: 270px; font-size: 10px;}
+   
+   .scroll_top {font-size: 20px; width: 40px;height: 40px; line-height: 40px;}
+   .footer .services button {font-size: 12px; padding: 5px 30px;}
+}
+
+
+/* Mobile screen */
+@media(min-width: 577px) and (max-width: 767px) {
+   
+}
+
+
+
+/* Small screen */
+@media(min-width: 768px) and (max-width: 991px) {
+    
+}
+
+
+/* Medium screen */
+@media(min-width: 992px) and (max-width: 1199px) {
+    
+}
+
+
+/* Large screen */
+@media(min-width: 1200px) {
+    
+}
+

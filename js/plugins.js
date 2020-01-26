@@ -13,7 +13,7 @@ window.onbeforeunload = function () {
 $(window).on('load', function () {
 	'use strict';
 	
-	$('.loading .sk-cube-grid, .loading').delay(3000).fadeOut(1000, function () {
+	$('.loading .sk-cube-grid, .loading').fadeOut(1000, function () {
 		// show the scroll
 		$('body,html').css('overflow', 'auto');
 		
